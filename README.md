@@ -4,7 +4,17 @@ A hack built at [Silicon Chef](http://www.eventbrite.com/e/silicon-chef-2014-har
 
 ## Setup
 
-Get your hands on an Intel Galileo Generation 2 and an Arduino Uno with a ping sensor. Clone this repo and import into your favorite Arduino IDE.  
+Get your hands on an Arduino Yun, a servo, a temperature sensor, a sound sensor and a [Twilio account](https://www.twilio.com). Clone this repo and import into your favorite Arduino IDE.  
+
+## Presentation
+
+http://slides.com/brit200313/moanitor-silicon-chef-2014#/
+
+## Team Members
+
+America Lopez, Penelope Lopez, Tatiana Charkova, Brittany Martin and Hannah Lewbel 
+
+
 
 
 
